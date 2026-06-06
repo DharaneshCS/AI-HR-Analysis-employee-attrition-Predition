@@ -1,0 +1,6 @@
+AWIS HR Analytics Insights
+=============================
+
+1. Overtime employees have high attrition.
+2. Low salary increases employee turnover.
+3. Job dissatisfaction affects retention.
